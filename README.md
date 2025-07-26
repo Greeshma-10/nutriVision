@@ -12,7 +12,7 @@
 - 🛠️ Ready for future extension (e.g., recipe recommendation)
 
 ## 🏗️ Project Structure
-
+```text
 nutriVision/
 │
 ├── yolov5/ # YOLOv5 official repo (cloned locally)
@@ -23,6 +23,7 @@ nutriVision/
 ├── README.md # This file
 └── requirements.txt # Required Python packages
 
+```
 
 ## 🚀 Getting Started
 
